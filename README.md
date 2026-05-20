@@ -9,6 +9,12 @@ A command-line calculator that performs basic arithmetic operations — addition
 Compound Interest Calculator
 A Python script that calculates compound interest based on user inputs including principal amount, interest rate, time period and compounding frequency.
 
+Madlibs game:
+A python script game based on a madlibs game where you input random adjectives and nouns to form sentences
+
+Python flower:
+A drawing of a flower in python
+
 My goals:
 Build a strong and adaptable fondation on python
 Progress ultimately into C++ for Robotics
